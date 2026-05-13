@@ -48,5 +48,8 @@ Social Media Engagement Dataset containing:
 
 ---
 
+## 📷 Dashboard Preview
+
+
 ## 🌟 Outcome
 Successfully created an interactive business intelligence dashboard that helps analyze social media performance and supports data-driven decision-making.
